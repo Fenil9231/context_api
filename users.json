@@ -1,0 +1,37 @@
+[
+  {
+    "id": "user_6f2e328d-b5c4-4978-9d0b-031131ce1f35",
+    "name": "Fenil k Kothiya",
+    "email": "fenil.kothiya@gmail.com",
+    "city": "Hyderabad",
+    "phoneNumber": ["1253864283"]
+  },
+  {
+    "id": "user_39074654-1f9b-4f89-869c-c80d17c0e978",
+    "name": "jensi a ghori",
+    "email": "jenu9231@gmail.com",
+    "city": "Surat",
+    "phoneNumber": ["9979520245", "2987941591"]
+  },
+  {
+    "id": "user_0ee9df99-8e2c-4b7b-bdc6-dec9d953f397",
+    "name": "Divyang radadiya",
+    "email": "divya@gmail.com",
+    "city": "Hariyana",
+    "phoneNumbers": ["8863254195", "6235941586"]
+  },
+  {
+    "id": "user_900bbaee-177b-40e4-9163-4127639f07e3",
+    "name": "cfedknj",
+    "email": "some@gmail.com",
+    "city": "suart",
+    "phoneNumbers": ["5623256565", "25656652626"]
+  },
+  {
+    "id": "user_75686641-eeef-4da8-9c6a-12b58d8a33f4",
+    "name": "Ghanshyam  Dobariya",
+    "email": "ganipaircode@gmail.com",
+    "city": "Jaipure",
+    "phoneNumber": ["469535698", "1286345297"]
+  }
+]
