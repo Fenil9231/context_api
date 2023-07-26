@@ -18,14 +18,14 @@
     "name": "Divyang radadiya",
     "email": "divya@gmail.com",
     "city": "Hariyana",
-    "phoneNumbers": ["8863254195", "6235941586"]
+    "phoneNumber": ["8863254195", "6235941586"]
   },
   {
     "id": "user_900bbaee-177b-40e4-9163-4127639f07e3",
     "name": "cfedknj",
     "email": "some@gmail.com",
     "city": "suart",
-    "phoneNumbers": ["5623256565", "25656652626"]
+    "phoneNumber": ["5623256565", "25656652626"]
   },
   {
     "id": "user_75686641-eeef-4da8-9c6a-12b58d8a33f4",
